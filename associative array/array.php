@@ -40,16 +40,16 @@ $madrasha = array(
 
 
 
-$nubmer = array(
-	'one' => 1,
-	'two' => 2,
-	'three' => 3,
-);
+// $nubmer = array(
+// 	'one' => 1,
+// 	'two' => 2,
+// 	'three' => 3,
+// );
 
 
   
              
-
+// echo $nubmer[	'one' ];
 
 
 
