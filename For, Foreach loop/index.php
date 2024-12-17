@@ -8,10 +8,6 @@ foreach($Student as $ite){
   echo  $ite . '</br>';
 }
 
-
-
-
-
 function sayHello() {
 	return "Hello there  Abdullah! Bin Amir 😎😎 He love Ms. Fariya Akhter <br/>";
 }
