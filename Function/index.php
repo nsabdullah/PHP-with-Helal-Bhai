@@ -11,9 +11,30 @@ sayHello();
 
 
 
+
+
 //Function with argument
 function sayGoogMorning( string $name){
-    echo "Good mornig " . $name . " ! ";
+    echo "Good mornig " . $name . " !   <br/>"  ;
 }
-sayGoogMorning("Jubayer")
+sayGoogMorning("Jubayer");
+
+
+
+
+
+
+
+// Function practice 2nd time 
+
+
+function wellCome(){
+    echo "brand <br/>";
+};
+ wellCome();
+
+
+
+
+// ocalhost/PHP with Helal Bhai/Function/index.php
 ?>
