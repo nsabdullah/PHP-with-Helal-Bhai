@@ -35,7 +35,7 @@ $madrasha = array(
 
 
 // print($madrasha['classOne']);
-// echo $madrasha['classThree']
+// echo $madrasha['classThree'];
 
 
 
@@ -50,6 +50,25 @@ $madrasha = array(
   
              
 // echo $nubmer[	'one' ];
+
+
+$car = array("brand"=>"Ford",
+             "model"=>"Mustang",
+             "year"=>1964 );
+
+
+// var_dump($car["brand"]);
+             
+//  var_dump($car);
+
+// 
+// echo $car["year"];  
+// print($car['brand']);    
+             
+
+
+
+
 
 
 
