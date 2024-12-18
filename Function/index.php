@@ -36,5 +36,5 @@ function wellCome(){
 
 
 
-// ocalhost/PHP with Helal Bhai/Function/index.php
+// localhost/PHP with Helal Bhai/Function/index.php
 ?>
