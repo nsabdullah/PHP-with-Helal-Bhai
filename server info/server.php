@@ -10,8 +10,5 @@ echo "<pre>";
 echo $server["HTTP_HOST"];
   
 echo $server ["PATH"]
-
-
 // localhost/PHP with Helal Bhai/server info/server.php
-
 ?>
