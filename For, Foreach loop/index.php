@@ -24,5 +24,5 @@ foreach ( $languages as $item ) {
 	echo $item . "<br/>";
 }
 
-
+// localhost/PHP with Helal Bhai/For, Foreach loop/index.php
 ?>

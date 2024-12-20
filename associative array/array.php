@@ -65,18 +65,5 @@ $car = array("brand"=>"Ford",
 // echo $car["year"];  
 // print($car['brand']);    
              
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// localhost/PHP with Helal Bhai/associative array/array.php
 ?>
