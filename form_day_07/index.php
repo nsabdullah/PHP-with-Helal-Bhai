@@ -8,26 +8,37 @@
 <body>
 
 
+<form action="submit.php" method="post">
 
-<form>
-  <label for="name">Name:</label><br>
-  <input type="text" id="name" name="name"><br>
-  <label for="email">Email:</label><br>
-  <input type="text" id="email" name="email"><br>
-  <label for="password">Password:</label><br>
-  <input type="password" id="password" name="password"><br>
-  <label for="comment">Comment:</label><br>
-  <textarea id="comment" name="comment"></textarea><br>
-  <input type="submit" value="Submit">
+
+
+
+  <input type="text" name="userName" id="" placeholder="Type Your Name"> <br>
+  <input type="email" name="email" id="" placeholder="Type Your Email"> <br>
+  <input type="password" name="password" id="" placeholder="Type Your Password">  <br>
+  <input type="submit" value="submit">
+
+
+
+
+
 </form>
 
 
 
 
 
-<!--  localhost/PHP with Helal Bhai/form_day_07/index.php -->
 
-  
+
+
+
+
+
+
+
+
+
+<!--  localhost/PHP_with_Helal_Bhai/form_day_07/index.php -->
 </body>
 </html>
 
