@@ -8,19 +8,15 @@
 <body>
 
 
-<form action="submit.php" method="post">
 
 
-
+<form action="submit.php" method="post" enctype="multipart/form-data">
 
   <input type="text" name="userName" id="" placeholder="Type Your Name"> <br>
   <input type="email" name="email" id="" placeholder="Type Your Email"> <br>
-  <input type="password" name="password" id="" placeholder="Type Your Password">  <br>
+  <!-- <input type="password" name="password" id="" placeholder="Type Your Password">  <br> -->
+  <input type="file"  name="photo">  <br>
   <input type="submit" value="submit">
-
-
-
-
 
 </form>
 

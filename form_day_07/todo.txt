@@ -1,5 +1,7 @@
 1. Browser =>  Request => Response => Browser
 2. Form Handling
+3. Form Action
+4. Access submit from data
 
  
 
