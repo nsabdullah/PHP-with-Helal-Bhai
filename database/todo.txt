@@ -1,0 +1,15 @@
+What I learn abiut Database
+..What is data base
+..How to login in Database
+..Database intosuction
+..How to creat a Database
+..How to creat a table
+ 
+
+
+
+
+ How to connect php with Database
+ ..using php with Database 
+ ..to connect database with index.php 
+localhost/PHP_with_Helal_Bhai/Database/index.php
