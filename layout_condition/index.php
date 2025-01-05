@@ -10,7 +10,6 @@ include('layout/footer.php');
 //   header('Location: layout_condition/logIn.php');
 
 $isLoggedin = true;
-
 if(!$isLoggedin) {
   header('Location: layout_condition/logIn.php');
 }
