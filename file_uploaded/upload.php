@@ -13,8 +13,10 @@ $destination = "profile_picture/". time() . $user_profile['name'];
 
 //move_uploaded_file
 
+if(move_uploaded_file( $user_profile["tmp_name"], $destination );){
+   
+}
 
-move_uploaded_file( $user_profile["tmp_name"], $destination );
 
 
 
